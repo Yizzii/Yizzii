@@ -16,11 +16,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
 </div>
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=Yizzii&countColor=%23263759"/>
+</div>
 
-###
-
-<br clear="both">
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
-
-###
